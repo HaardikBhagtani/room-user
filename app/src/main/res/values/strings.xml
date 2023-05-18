@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">User Form Room</string>
+
+    <string-array name="designations">
+        <item>CEO</item>
+        <item>COO</item>
+        <item>CFO</item>
+        <item>Employee</item>
+        <item>Flutter Developer</item>
+        <item>Other</item>
+    </string-array>
+
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
+
+    <string name="empty"></string>
+</resources>
